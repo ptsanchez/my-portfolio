@@ -10,7 +10,7 @@ const Resume = () => {
           <Button
             variant="contained"
             style={{ backgroundColor: '#777', color: 'white' }}
-            href="path/to/your_resume.pdf"
+            href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ptsanchez/documents/main/patric_sanchez_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -10,7 +10,7 @@ const CoverLetter = () => {
           <Button
             variant="contained"
             style={{ backgroundColor: '#888', color: 'white' }}
-            href="path/to/your_cover_letter.pdf"
+            href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ptsanchez/documents/main/patric_sanchez_cover_letter.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >

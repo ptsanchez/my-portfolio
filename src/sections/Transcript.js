@@ -10,7 +10,7 @@ const Transcript = () => {
           <Button
             variant="contained"
             style={{ backgroundColor: '#777', color: 'white' }}
-            href="path/to/your_transcript.pdf"
+            href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ptsanchez/documents/main/patric_sanchez_unofficial_transcript.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
