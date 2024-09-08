@@ -1,3 +1,3 @@
 # My Portfolio Website
 
-TBD
+Check it out here: https://ptsanchez.github.io/my-portfolio/
