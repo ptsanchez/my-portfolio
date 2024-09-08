@@ -1,3 +1,3 @@
-# Patric Sanchez Portfolio Website
+# My Portfolio Website
 
-https://ptsanchez.github.io/my-portfolio/
+Check it out here: https://ptsanchez.github.io/my-portfolio/
