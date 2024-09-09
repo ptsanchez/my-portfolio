@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Typography, Box, Grid, Card, CardContent, CardActions, Button } from '@mui/material';
+import { Link } from 'react-router-dom';
 
 const projects = [
   {
@@ -49,7 +50,7 @@ const Home = () => {
                     </Typography>
                   </CardContent>
                   <CardActions>
-                  <Button size="small" color="secondary" href={project.developmentLink}>
+                    <Button size="small" color="secondary" component={Link} to={project.developmentLink}>
                       Development
                     </Button>
                     <Button size="small" color="primary" href={project.projectLink} target="_blank">
