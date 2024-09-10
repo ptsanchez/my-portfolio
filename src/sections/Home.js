@@ -8,14 +8,14 @@ const projects = [
     description: 'CRUD web application where users can keep track of their projects. Users can logs to each project to showcase progress.',
     projectLink: 'https://cse110-sp24-group15.github.io/cse110-sp24-group15/project/homePage/home_page.html',
     developmentLink: '/development/1',  
-    githubLink: 'https://github.com/cse110-sp24-group15/cse110-sp24-group15', 
+    githubLink: 'https://github.com/ptsanchez/developer-journal', 
   },
   {
     title: 'Economic Impact of Musical Tours',
     description: 'Investigating and exploring how local hospitality services and inflation is influenced from musical tours.',
     projectLink: 'https://github.com/ptsanchez/group65-sp24/blob/main/FinalProject_group065.ipynb',
     developmentLink: '/development/2', 
-    githubLink: 'https://github.com/ptsanchez/group65-sp24',
+    githubLink: 'https://github.com/ptsanchez/economic-impact-of-tours',
   },
   {
     title: 'NFA to DFA',
@@ -33,7 +33,7 @@ const Home = () => {
         <Typography variant="h3" gutterBottom textAlign="center">Patric Sanchez</Typography>
         <Typography variant="body1" textAlign="center">
           Hi! I'm an Undergraduate Computer Science and Mathematics student at the University of California - San Diego. 
-          I strive to apply my technical knowledge and passion for learning to create innovative solutions for complex problems. Explore my work below!
+          I strive to apply my technical knowledge and passion for learning to create innovative solutions for complex problems. Explore some of my work below!
         </Typography>
         
         <Box mt={5}>

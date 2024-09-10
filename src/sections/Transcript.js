@@ -16,6 +16,10 @@ const Transcript = () => {
           >
             View Transcript
           </Button>
+          <Box mb={1} />
+          <Typography variant="subtitle1" fontStyle={'italic'}>
+          Last updated on 9/9/24
+          </Typography>
         </Box>
       </Container>
     </Box>
